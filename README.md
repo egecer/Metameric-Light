@@ -22,6 +22,7 @@ values [6]. These increments per photoreceptor irradiances served as the paramet
 function represented by mLED in the Equation (1)
 
 REFERENCES
+
 [1] Warthen, Daniel M., and Ignacio Provencio. "The role of intrinsically photosensitive retinal 
 ganglion cells in nonimage-forming responses to light." Eye and brain (2012): 43-48.
 [2] Noor, Mahya Cheshmeh, et al. "The impact of wavelength on acute non-visual responses to light: A 
