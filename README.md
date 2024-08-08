@@ -1,4 +1,4 @@
-# MetamericLight
+# Metameric Light
 
 Contact: e.gecer@tue.nl
 
